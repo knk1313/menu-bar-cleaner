@@ -1,0 +1,8 @@
+# GitHub Actions の更新を、週に1回PRで届ける。
+# Swift の依存パッケージはないため、swift のブロックは置いていない。
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
