@@ -81,7 +81,3 @@ Sources/
   MenuBarCleanerCore/    OS に依存しない判定（テストの対象）
 Tests/                   MenuBarCleanerCore のテスト
 ```
-
-## ライセンス
-
-[MIT](LICENSE)
